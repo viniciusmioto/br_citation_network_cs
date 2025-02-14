@@ -1,0 +1,127 @@
+{
+    "meta": {
+        "count": 2,
+        "db_response_time_ms": 1648,
+        "page": 1,
+        "per_page": 10,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W3093502035",
+            "doi": "https://doi.org/10.1145/3382025.3414942",
+            "display_name": "Variability management meets microservices",
+            "publication_year": 2020,
+            "primary_topic": {
+                "id": "https://openalex.org/T10639",
+                "display_name": "Advanced Software Engineering Methodologies",
+                "score": 0.9998,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1702",
+                    "display_name": "Artificial Intelligence"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "referenced_works_count": 38,
+            "referenced_works": [
+                "https://openalex.org/W1481078745",
+                "https://openalex.org/W1494019345",
+                "https://openalex.org/W1539495021",
+                "https://openalex.org/W2029414465",
+                "https://openalex.org/W2125398918",
+                "https://openalex.org/W2156062547",
+                "https://openalex.org/W2200382673",
+                "https://openalex.org/W2477378326",
+                "https://openalex.org/W2495617574",
+                "https://openalex.org/W2500697748",
+                "https://openalex.org/W2536305519",
+                "https://openalex.org/W2586191823",
+                "https://openalex.org/W2740775418",
+                "https://openalex.org/W2753132080",
+                "https://openalex.org/W2756040459",
+                "https://openalex.org/W2772864159",
+                "https://openalex.org/W2799162674",
+                "https://openalex.org/W2799310732",
+                "https://openalex.org/W2801207044",
+                "https://openalex.org/W2801519282",
+                "https://openalex.org/W2808558425",
+                "https://openalex.org/W2808595017",
+                "https://openalex.org/W2890021602",
+                "https://openalex.org/W2890731318",
+                "https://openalex.org/W2907269917",
+                "https://openalex.org/W2911537985",
+                "https://openalex.org/W2914775513",
+                "https://openalex.org/W2918852205",
+                "https://openalex.org/W2963026732",
+                "https://openalex.org/W2967363435",
+                "https://openalex.org/W2967819432",
+                "https://openalex.org/W2976409734",
+                "https://openalex.org/W2979591158",
+                "https://openalex.org/W3004710862",
+                "https://openalex.org/W3022732573",
+                "https://openalex.org/W3083328823",
+                "https://openalex.org/W3094629926",
+                "https://openalex.org/W3097574021"
+            ],
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3093502035"
+        },
+        {
+            "id": "https://openalex.org/W3092821517",
+            "doi": "https://doi.org/10.4067/s0718-27242020000200003",
+            "display_name": "Characteristics and Challenges of Agile Software Development Adoption in Brazilian Government",
+            "publication_year": 2020,
+            "primary_topic": {
+                "id": "https://openalex.org/T10430",
+                "display_name": "Software Engineering Techniques and Practices",
+                "score": 0.9939,
+                "subfield": {
+                    "id": "https://openalex.org/subfields/1710",
+                    "display_name": "Information Systems"
+                },
+                "field": {
+                    "id": "https://openalex.org/fields/17",
+                    "display_name": "Computer Science"
+                },
+                "domain": {
+                    "id": "https://openalex.org/domains/3",
+                    "display_name": "Physical Sciences"
+                }
+            },
+            "referenced_works_count": 23,
+            "referenced_works": [
+                "https://openalex.org/W1969560880",
+                "https://openalex.org/W198019032",
+                "https://openalex.org/W2115467956",
+                "https://openalex.org/W2139876174",
+                "https://openalex.org/W2149484455",
+                "https://openalex.org/W2270216281",
+                "https://openalex.org/W2293052457",
+                "https://openalex.org/W2295483236",
+                "https://openalex.org/W2394526856",
+                "https://openalex.org/W2511177407",
+                "https://openalex.org/W2555813130",
+                "https://openalex.org/W2567599797",
+                "https://openalex.org/W2598223218",
+                "https://openalex.org/W2602021992",
+                "https://openalex.org/W2607484774",
+                "https://openalex.org/W2620610685",
+                "https://openalex.org/W2621396066",
+                "https://openalex.org/W2779704245",
+                "https://openalex.org/W2782778074",
+                "https://openalex.org/W2801479541",
+                "https://openalex.org/W2804935060",
+                "https://openalex.org/W2896975396",
+                "https://openalex.org/W2899417788"
+            ],
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3092821517"
+        }
+    ],
+    "group_by": []
+}

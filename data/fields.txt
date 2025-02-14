@@ -1,0 +1,1 @@
+select=id,doi,title,publication_year,primary_topic,referenced_works_count,referenced_works,cited_by_api_url
